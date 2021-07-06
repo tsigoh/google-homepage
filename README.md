@@ -1,0 +1,1 @@
+A simple clone of the Google home/ landing page using HTML and CSS, and Bootstrap

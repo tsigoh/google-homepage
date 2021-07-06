@@ -1,0 +1,24 @@
+body {
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.img {
+    width: 30%;
+    height: auto;
+    margin-top: 5rem;
+}
+.form-control {
+    width: 50%;
+}
+
+.search {
+    border-radius: 1.5rem;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+.sub {
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
